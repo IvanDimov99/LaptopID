@@ -1,3 +1,6 @@
+//Ivan Dimov
+//kolapstropa@gmail.com
+
 package Laptop;
 import java.util.*;
 
